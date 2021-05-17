@@ -1,2 +1,2 @@
-# ucp.uiassistant
-Unity Custom Packages of UIAssistant
+# ucp.statemachine
+Unity Custom Packages of StateMachine Pattern
